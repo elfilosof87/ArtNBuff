@@ -13,14 +13,13 @@ Artnbuff Shopping Mobile App was created to address the problem of making Indian
 
 bring images that are in the screenshots folder of extension .svg
 
-![Alt Text](./screenshots/1.svg)
-![Alt Text](./screenshots/2.svg)
-![Alt Text](./screenshots/3.svg)
-![Alt Text](./screenshots/4.svg)
-![Alt Text](./screenshots/5.svg)
-![Alt Text](./screenshots/6.svg)
-![Alt Text](./screenshots/7.svg)
-![Alt Text](./screenshots/8.svg)
-![Alt Text](./screenshots/9.svg)
-![Alt Text](./screenshots/10x   .svg)
+![Alt Text](./screenshots/1.svg)<br>
+![Alt Text](./screenshots/2.svg)<br>
+![Alt Text](./screenshots/3.svg)<br>
+![Alt Text](./screenshots/4.svg)<br>
+![Alt Text](./screenshots/5.svg)<br>
+![Alt Text](./screenshots/6.svg)<br>
+![Alt Text](./screenshots/7.svg)<br>
+![Alt Text](./screenshots/8.svg)<br>
+![Alt Text](./screenshots/9.svg)<br>
 
